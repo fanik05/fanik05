@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Node and React Based Projects**
 - 🤔 I’m looking for help with **[MySQL](https://www.mysql.com)**
 - 💬 Ask me about **anything related to JavaScript**
-- 📫 How to reach me: [Mail Me!](mailto:fatinanik129@gmail.com)
+- 📫 How to reach me: **[Mail Me!](mailto:fatinanik129@gmail.com)**
 - ⚡ Fun fact: I love story based games 🎮
 
 ### Social media
