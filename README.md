@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **[Koa](https://koajs.com)**
+- 🔭 I’m currently working on **<a href="https://koajs.com" target="_blank">Koa</a>**
 - 🌱 I’m currently learning **[React](https://reactjs.org)**
 - 👯 I’m looking to collaborate on **Node and React Based Projects**
 - 🤔 I’m looking for help with **[MySQL](https://www.mysql.com)**
