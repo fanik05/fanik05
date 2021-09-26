@@ -13,10 +13,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/anikaust" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" title="LinkedIn" width="55" height="55"/>
   </a>
   <a href="https://twitter.com/FatinAnik" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" title="Twitter" width="55" height="55"/>
   </a>
 </p>
 
