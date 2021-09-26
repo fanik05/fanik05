@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🔭 I’m currently working on a project **[Koa](https://koajs.com)**
+- 🔭 I’m currently working on a project based on **[Koa](https://koajs.com)**
 - 🌱 I’m currently learning **[React](https://reactjs.org)**
 - 👯 I’m looking to collaborate on **Node and React Based Projects**
 - 🤔 I’m looking for help with **[MySQL](https://www.mysql.com)**
