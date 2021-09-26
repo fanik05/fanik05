@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&theme=cobalt&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&theme=dracula&count_private=true)
 
 
 <!--
