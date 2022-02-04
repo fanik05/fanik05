@@ -39,9 +39,7 @@
 ### What I am interested in learning at some point 
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" title="TypeScript" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" title="Sass" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" title="AWS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
   <img src="https://github.com/uiwjs/file-icons/blob/master/icon/solidity.svg" alt="solidity" title="Solidity" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" title="Gatsby" width="55" height="55"/>
