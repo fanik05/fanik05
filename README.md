@@ -43,6 +43,7 @@
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" title="Sass" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
+  <img src="https://github.com/uiwjs/file-icons/blob/master/icon/solidity.svg" alt="solidity" title="Solidity" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" title="Gatsby" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" title="NestJS" width="55" height="55"/>
 </p>
