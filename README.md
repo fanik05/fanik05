@@ -35,7 +35,7 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="AWS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
-  <img src="https://github.com/uiwjs/file-icons/blob/master/icon/solidity.svg" alt="solidity" title="Solidity" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" title="Solidity" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" title="Gatsby" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" title="NestJS" width="55" height="55"/>
 </p>
