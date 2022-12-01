@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🔭 I’m currently working on a project based on **[Koa](https://koajs.com)**
+- 🔭 I’m currently working on a project based on **[Next](https://nextjs.org)**
 - 🌱 I’m currently learning **[React](https://reactjs.org)**
 - 👯 I’m looking to collaborate on **Node and React Based Projects**
 - 🤔 I’m looking for help with **[MySQL](https://www.mysql.com)**
@@ -25,7 +25,9 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="NodeJS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="ReactJS" width="55" height="55"/>
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next" title="NextJS" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="redux" title="Redux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="MySQL" width="55" height="55"/>
 </p>
@@ -34,7 +36,6 @@
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="AWS" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" alt="solidity" title="Solidity" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" title="Gatsby" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" title="NestJS" width="55" height="55"/>
