@@ -26,6 +26,7 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="NodeJS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="ReactJS" width="55" height="55"/>
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next" title="NextJS" width="55" height="55"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" title="Redux" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="MySQL" width="55" height="55"/>
