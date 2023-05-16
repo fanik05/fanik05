@@ -26,7 +26,6 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="NodeJS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="ReactJS" width="55" height="55"/>
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next" title="NextJS" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="redux" title="Redux" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="MySQL" width="55" height="55"/>
@@ -44,3 +43,6 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fanik05&theme=dark)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&theme=gotham" alt="fanik05" />
+
