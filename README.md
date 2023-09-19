@@ -1,49 +1,34 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🔭 I’m currently working on a project based on **[Next](https://nextjs.org)**
-- 🌱 I’m currently learning **[React](https://reactjs.org)**
-- 👯 I’m looking to collaborate on **Node and React Based Projects**
-- 🤔 I’m looking for help with **[MySQL](https://www.mysql.com)**
-- 💬 Ask me about **anything related to JavaScript**
-- 📫 How to reach me: **[Mail Me!](mailto:fatinanik129@gmail.com)**
-- ⚡ Fun fact: I love story based games 🎮
+I´m Fatin, a Full Stack JavaScript Developer.
 
-### Social media
+## 🚀💻 Technologies & Tools
 
-<p>
-  <a href="https://www.linkedin.com/in/anikaust" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" title="LinkedIn" width="55" height="55"/>
-  </a>
-  <a href="https://twitter.com/FatinAnik" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" title="Twitter" width="55" height="55"/>
-  </a>
-</p>
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![tailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+  
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+  ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+  
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  
+  
+  
+## ⚡ GitHub Stats
 
-### Technologies and tools
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="NodeJS" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="ReactJS" width="55" height="55"/>
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next" title="NextJS" width="55" height="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" title="Redux" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" title="Tailwind CSS" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="MySQL" width="55" height="55"/>
-</p>
-
-### What I am interested in learning at some point 
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="AWS" width="55" height="55"/>
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" alt="solidity" title="Solidity" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsbyjs" title="Gatsby" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" title="NestJS" width="55" height="55"/>
-</p>
-
----
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fanik05&theme=dark)](https://git.io/streak-stats)
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&theme=gotham" alt="fanik05" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanik05&layout=compact&count_private=true&theme=gruvbox" />
