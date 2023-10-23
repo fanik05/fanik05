@@ -3,7 +3,6 @@
 I´m Fatin, a Full Stack JavaScript Developer.
 
 ## 🚀💻 Technologies & Tools
-
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,10 +24,12 @@ I´m Fatin, a Full Stack JavaScript Developer.
   
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  
-  
-  
+    
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanik05&layout=compact&count_private=true&theme=gruvbox" />
+
+## ⚡ Hacktober Stats
+
+[![An image of @fanik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fanik05)](https://holopin.io/@fanik05)
