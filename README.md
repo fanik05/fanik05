@@ -24,12 +24,13 @@ I´m Fatin, a Full Stack JavaScript Developer.
   
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-    
+
+## 💾 Hactoberfest Swags
+
+[![An image of @fanik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fanik05)](https://holopin.io/@fanik05)
+
+
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanik05&layout=compact&count_private=true&theme=gruvbox" />
-
-## Hactoberfest Swags
-
-[![An image of @fanik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fanik05)](https://holopin.io/@fanik05)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanik05&layout=compact&count_private=true&theme=gruvbox" />
