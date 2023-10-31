@@ -30,6 +30,6 @@ I´m Fatin, a Full Stack JavaScript Developer.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fanik05&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanik05&layout=compact&count_private=true&theme=gruvbox" />
 
-## ⚡ Hacktober Stats
+## Hactoberfest Swags
 
 [![An image of @fanik05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fanik05)](https://holopin.io/@fanik05)
